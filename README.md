@@ -1,2 +1,2 @@
-# essays
-Juncture visual essays
+# docs
+RyaraSUKI's docs
